@@ -2,226 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/index.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/001-01-Inicio.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/001-02-PSF.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/001-03-Herramientas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/001-04-Versiones.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/001-05-Nombre.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/002-01-IDLE.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/002-02-IDLE_Menu.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/002-03-IDLE_Ventanas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-01-PPrograma.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-02-Errores.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-03-Sintaxis.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-04-Comentarios.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-05-Incompletas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/003-06-Ejecutar.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/004-01-Expresiones.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/004-02-Variables.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/004-03-NombresVariables.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/004-04-Modulos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-01-Textos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-02-Strings.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-03-OpStrings.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-04-Slicing.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-05-FStrings.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/005-06-Escapes.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/006-01-Shell.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/006-02-ComandosSO.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/007-01-Tipos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/007-02-Conversiones.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/007-03-Metodos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/007-04-Aritmetica.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/008-01-Condicional.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/008-02-Booleano.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/008-03-Relacional.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/008-04-Bucles.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/008-05-Adivinanzas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-01-Listas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-02-OpListas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-03-Tuplas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-04-For.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-05-Diccionarios.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/009-06-OpDiccionarios.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/010-01-Funciones.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/010-02-Ambito.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/010-03-Modulos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/011-01-Fechas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/012-01-Binario.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/012-02-SistBinario.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/012-03-OtrosSistemas.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/013-01-Clases.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/013-02-Me%CC%81todos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/013-03-Propiedades.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/013-04-Herencia.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
          <loc>https://trezebits.github.io/python_desde_cero/013-05-Modulos.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://trezebits.github.io/python_desde_cero/014-01-Tkinter.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://trezebits.github.io/python_desde_cero/014-01-Pip.html</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
     <url>
-         <loc>https://trezebits.github.io/python_desde_cero/014-02-Tkinter-colores.html</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://trezebits.github.io/python_desde_cero/014-02-Pillow.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/015-01-Tkinter.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/015-02-Tkinter-colores.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/015-03-Tkinter-coordenadas.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/015-04-Tkinter-dibujar.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/015-05-Tkinter-textos.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/016-01-Tkinter-imagenes1.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/016-02-Tkinter-imagenes2.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/016-03-Tkinter-imagenes3.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://trezebits.github.io/python_desde_cero/016-04-Tkinter-imagenes4.html</loc>
+         <lastmod>2025-07-16</lastmod>
     </url>
 </urlset>
